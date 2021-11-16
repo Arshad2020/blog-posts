@@ -1,6 +1,6 @@
 {
   "name": "blog",
-  "homepage": "https://arshad2020.github.io/blog-posts/",
+  "homepage": "https://arshad2020.github.io/blog-posts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
